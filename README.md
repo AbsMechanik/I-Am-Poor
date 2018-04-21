@@ -7,3 +7,7 @@ Ideas for next updates
 2) SFX to be played when user taps coal icons
 3) Music play when user tap and holds on the main coal in the center
 ....
+
+# Screenshots
+
+![img_4643](https://user-images.githubusercontent.com/198389/39088497-3687e45c-4581-11e8-953d-d8674a8def96.PNG)
